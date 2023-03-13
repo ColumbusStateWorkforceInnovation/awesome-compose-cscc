@@ -36,7 +36,7 @@ here is a list of ones that works:
 
 ## some things to try
 
-You will need to open two terminals. I could not figure out a way to stop a container with opening a second terminal.
+You will need to open two terminals. I could not figure out a way to stop a container without opening a second termina and running a "docker stop."
 
 - docker stop <container name>
 - docker rm -f <container name>
