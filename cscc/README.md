@@ -27,7 +27,7 @@ docker run --rm \
 
 The way they built the nginx apps seems to be breaking our docker compose solution
 
-here is a list of ones that works:
+here is a list of ones that work. I am sure there are more.
 
 - wordpress
 - promotheuas/ grafana
